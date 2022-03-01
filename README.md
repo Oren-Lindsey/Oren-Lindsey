@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Oren-Lindsey/Oren-Lindsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Oren Lindsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=oren-lindsey&show_icons=true&count_private=true&title_color=ff0000&icon_color=7DBBE6&text_color=211F1F&bg_color=90,f5f5f5,ffffff&border_color=e4e2e2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=nix&title_color=ff0000&icon_color=7DBBE6&text_color=211F1F&bg_color=90,f5f5f5,ffffff&border_color=e4e2e2&layout=compact)]
