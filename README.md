@@ -5,11 +5,11 @@ I'm 14 years old and I live in North Carolina (the best state btw)
 So far everything I've made is open source and you can see it on here.
 Here are my Github Stats:
 
-![Oren Lindsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=oren-lindsey&show_icons=true&count_private=true&title_color=bd2c00&icon_color=7DBBE6&text_color=211F1F&bg_color=90,f5f5f5,ffffff&border_color=e4e2e2)
+![Oren Lindsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=oren-lindsey&show_icons=true&count_private=true&title_color=ff0000&icon_color=7DBBE6&text_color=211F1F&bg_color=f5f5f5&border_color=e4e2e2)
 
 I mostly make websites. Here are the main languages I use:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oren-lindsey&hide=nix&title_color=bd2c00&icon_color=7DBBE6&text_color=211F1F&bg_color=90,f5f5f5,ffffff&border_color=e4e2e2&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oren-lindsey&hide=nix&title_color=ff0000&icon_color=7DBBE6&text_color=211F1F&bg_color=f5f5f5&border_color=e4e2e2&layout=compact)
 
 (btw Javascript is my favorite language)
 
