@@ -28,7 +28,7 @@ I don't know how to use any command line interface. (← ikr)
 ## How to reach me:
 - If it's about one of my coding projects, please make an issue on that project's repository.
 - [Scratch](https://scratch.mit.edu/users/scratchusername40) Where I first learned coding. Account required.
-- [wasteof.money](https://wasteof.money) A social media website, made by [@jeffalo](https://github.com/jeffalo). Account required.
+- [wasteof.money](https://wasteof.money/@ee) A social media website, made by [@jeffalo](https://github.com/jeffalo). Account required.
 - [Replit](https://replit.com/@s40) An online IDE. Comment on one of my repls. Account required
 
 ## Currently working on:
