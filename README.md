@@ -40,4 +40,5 @@ Outside of coding I love Elon Musk and his projects, sneakers, design, streetwea
 ## Btw
 I'm willing to collaborate on a website if you want. Just contact me at one of the above. Also if you need help with js, html, or css then you could ask me. I probably wouldn't be much help though
 
+##
 [![Github Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foren-lindsey&count_bg=%23FF0000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
