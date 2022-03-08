@@ -1,9 +1,6 @@
 # Hi, I'm Oren
 I'm 14 years old and I live in North Carolina (the best state btw)
 
-Current Weather in NC:
-
-![Current Weather in NC](https://www.theweather.com/wimages/foto8331d444b587941dd1a2837dadddd427.png)
 ## I like to code. 
 So far everything I've made is open source and you can see it on here.
 Here are my Github Stats:
