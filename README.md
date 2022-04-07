@@ -3,14 +3,14 @@ I'm 14 years old and I live in North Carolina (the best state btw)
 
 ## I like to code. 
 So far everything I've made is open source and you can see it on here.
+I mostly make websites. (btw ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) is my favorite language)
 Here are my Github Stats:
 
 ## Stats
 ![Oren Lindsey's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oren-Lindsey&theme=github)
 ![Top languages per repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oren-Lindsey&theme=github)![Top languages per commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oren-lindsey&theme=github)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oren-lindsey&theme=github)![Commits per hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oren-lindsey&theme=github)
-
-I mostly make websites. (btw ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) is my favorite language)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oren-Lindsey&date_format=M%20j%5B%2C%20Y%5D&fire=FF9C00&ring=38BB50&currStreakLabel=0A4DCC&sideLabels=4B525B&sideNums=4B525B&currStreakNum=4B525B&dates=4B525B)](https://git.io/streak-stats)
 
 ## My favorite projects are: 
 - [A website for my christmas list](https://github.com/Oren-Lindsey/List-website). This was the first big project I made, although I wouldn't consider it big now.
