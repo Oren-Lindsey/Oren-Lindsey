@@ -2,7 +2,7 @@
 I'm 14 years old and I live in North Carolina (the best state btw)
 
 ## I like to code. 
-So far everything I've made is open source and you can see it on here. Also all my stuff is mirrored on gitlab at gitlab.com/Oren-Lindsey.
+So far everything I've made is open source and you can see it on here. Also all my stuff is mirrored on gitlab [here](https://gitlab.com/Oren-Lindsey).
 I mostly make websites. (btw ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) is my favorite language)
 Here are my Github Stats:
 
