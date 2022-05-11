@@ -14,6 +14,82 @@ Here are my Github Stats:
 ![Github contributions snake game](https://raw.githubusercontent.com/Oren-Lindsey/Oren-Lindsey/output/github-contribution-grid-snake.svg) 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 193 Contributions in the Year 2022
+ > 
+> 📦 5.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+🌆 Daytime    135 commits    ███████████████████░░░░░░   78.95% 
+🌃 Evening    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
+Tuesday      51 commits     ███████░░░░░░░░░░░░░░░░░░   29.82% 
+Wednesday    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
+Thursday     31 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.13% 
+Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
+Saturday     32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Sunday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               13 repos            ████████████████░░░░░░░░░   65.0% 
+HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+AppleScript              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Oren-Lindsey/Oren-Lindsey/main/charts/bar_graph.png) 
+
+
+ Last Updated on 11/05/2022 21:28:41 UTC
 <!--END_SECTION:waka-->
 
 ## My favorite projects are: 
