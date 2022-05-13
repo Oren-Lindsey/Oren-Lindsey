@@ -14,9 +14,9 @@ Here are my Github Stats:
 ![Github contributions snake game](https://raw.githubusercontent.com/Oren-Lindsey/Oren-Lindsey/output/github-contribution-grid-snake.svg) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-372%20Thousand%20lines%20of%20code-blue)
 
@@ -49,16 +49,20 @@ Sunday       5 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.0%
+JavaScript               42 mins             █████████████████████░░░░   87.16% 
+HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.19% 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.68% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  49 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Chat-test-2              0 secs              █████████████████████████   100.0%
+wasteof-anonymous        47 mins             ████████████████████████░   97.11% 
+Chat-test-2              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89%
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+Mac                      49 mins             █████████████████████████   100.0%
 
 ```
 
@@ -79,7 +83,7 @@ AppleScript              1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Oren-Lindsey/Oren-Lindsey/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/05/2022 18:55:02 UTC
+ Last Updated on 13/05/2022 18:52:17 UTC
 <!--END_SECTION:waka-->
 
 ## My favorite projects are: 
