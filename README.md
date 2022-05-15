@@ -94,7 +94,7 @@ AppleScript              1 repo              █░░░░░░░░░░�
 
 ## Tech I use:
 - Currently I have a ![mac](https://img.shields.io/badge/Apple-MacBook_Pro_2015-333333?style=for-the-badge&logo=apple&logoColor=white) 15 inch Intel i7 w/ 16 gigs memory and 1 TB ssd
-- I mostly code on [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com), but I'll switch to ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) one of these days
+- I mostly code on ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 - I use ![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white) for normal internet browsing and ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) for [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
 
 ## How to reach me:
