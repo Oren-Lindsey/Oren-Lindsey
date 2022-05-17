@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/67929847/168858887-053e4c5e-2fc6-44b2-8d43-40816c022f4d.jpg)
+![dropout bear banner](https://user-images.githubusercontent.com/67929847/168858887-053e4c5e-2fc6-44b2-8d43-40816c022f4d.jpg)
 # Hi, I'm Oren
 I'm 14 years old and I live in North Carolina (the best state btw)
 
