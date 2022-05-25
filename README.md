@@ -1,13 +1,8 @@
 # Hi, I'm Oren
 I'm 14 years old and I live in North Carolina (the best state btw)
 
-## I like to code. 
-So far everything I've made is open source and you can see it on here.
-I mostly make websites. (btw ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) is my favorite language)
+My stats:
 
-Here are my Github Stats:
-
-## Stats
 ![Oren Lindsey's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oren-Lindsey&theme=github)
 ![Top languages per repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oren-Lindsey&theme=github)![Top languages per commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oren-lindsey&theme=github)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oren-lindsey&theme=github)![Commits per hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oren-lindsey&theme=github)
