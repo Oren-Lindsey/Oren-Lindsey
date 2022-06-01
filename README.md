@@ -11,7 +11,6 @@ My stats:
 - ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) If it's about one of my coding projects, please make an issue on that project's repository.
 - [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/users/scratchusername40) Where I first learned coding. Account required.
 - [wasteof.money](https://wasteof.money/@ee) A social media website, made by [@jeffalo](https://github.com/jeffalo). Account required.
-- [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/s40) An online IDE. Comment on one of my repls. Account required
 
 ## Outside of coding
 Outside of coding I love Elon Musk and his projects, sneakers, design, streetwear, Apple Tech, Ye music, the outdoors, food, and such. I want a Tesla when I grow up. Also I'm a christian
