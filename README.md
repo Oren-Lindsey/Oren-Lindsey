@@ -17,3 +17,4 @@ Outside of coding I love Elon Musk and his projects, sneakers, design, streetwea
 
 ##
 [![Github Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foren-lindsey&count_bg=%23FF0000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
+![](https://hit.yhype.me/github/profile?user_id=67929847)
